@@ -7,12 +7,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="kadir.kilicoglu@outlook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="kadir.kilicoglu@outlook.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 [<img align="left" alt="kadir.kilicoglu_67563 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="KilicogluKadir | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kadir-kilicoglu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[email]: kadir.kilicoglu@outlook.com
+[mail]: mailto:kadir.kilicoglu@outlook.com
 [medium]: https://medium.com/@kadir.kilicoglu_67563
 [twitter]: https://twitter.com/KilicogluKadir
 [linkedin]: https://www.linkedin.com/in/kadir-kilicoglu
