@@ -17,6 +17,9 @@
 [twitter]: https://twitter.com/KilicogluKadir
 [linkedin]: https://www.linkedin.com/in/kadir-kilicoglu
 
-![Kadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkadir&show_icons=true&theme=dracula&count_private=true)
+<br/>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir)](https://github.com/kkadir/github-readme-stats)
+![Kadir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkadir&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkadir)](https://github-readme-stats.vercel.app/api?username=kkadir&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
