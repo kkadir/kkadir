@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a FinTech project :chart_with_upwards_trend:
 - 🌱 I’m currently learning KDB+/Q, Python and Software Architecture!
 - 👯 I’m looking to collaborate on any greenfield open-source project.
-- 😄 2020 Goals: Survive!
+- 😄 2021 Goals: Survive!
 
 ### Connect with me:
 
